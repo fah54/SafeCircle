@@ -46,6 +46,11 @@ Displays emergency-related guidance and useful contact information. The prototyp
 The deployed website can also be accessed here:
 
 **Live Website:** https://fah54.github.io/SafeCircle/
+**Github Repository:** https://github.com/fah54/SafeCircle
+**Project Presentation (PPT):**
+https://drive.google.com/file/d/1_1I52EZ09UAFgM0VQg5rja3MqBZltU5C/view?usp=drivesdk
+**Demo Video:**
+https://drive.google.com/file/d/1HBakxxcigaYcjvNpDdhuxaGpjkQvoXAY/view?usp=drivesdk
 
 ## ⚙️ Project Limitations
 
